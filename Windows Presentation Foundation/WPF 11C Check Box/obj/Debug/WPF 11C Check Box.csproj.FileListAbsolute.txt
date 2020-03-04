@@ -1,0 +1,14 @@
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 11C Check Box\obj\Debug\WPF 11C Check Box.csprojAssemblyReference.cache
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 11C Check Box\obj\Debug\MainWindow.g.cs
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 11C Check Box\obj\Debug\App.g.cs
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 11C Check Box\obj\Debug\WPF 11C Check Box_MarkupCompile.cache
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 11C Check Box\obj\Debug\WPF 11C Check Box_MarkupCompile.lref
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 11C Check Box\bin\Debug\WPF 11C Check Box.exe.config
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 11C Check Box\bin\Debug\WPF 11C Check Box.exe
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 11C Check Box\bin\Debug\WPF 11C Check Box.pdb
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 11C Check Box\obj\Debug\MainWindow.baml
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 11C Check Box\obj\Debug\WPF 11C Check Box.g.resources
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 11C Check Box\obj\Debug\WPF_11C_Check_Box.Properties.Resources.resources
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 11C Check Box\obj\Debug\WPF 11C Check Box.csproj.GenerateResource.cache
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 11C Check Box\obj\Debug\WPF 11C Check Box.exe
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 11C Check Box\obj\Debug\WPF 11C Check Box.pdb

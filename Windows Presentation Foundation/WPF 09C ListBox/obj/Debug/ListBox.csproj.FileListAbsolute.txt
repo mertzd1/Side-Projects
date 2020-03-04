@@ -1,0 +1,14 @@
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\ListBox\bin\Debug\ListBox.exe.config
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\ListBox\bin\Debug\ListBox.exe
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\ListBox\bin\Debug\ListBox.pdb
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\ListBox\obj\Debug\ListBox.csprojAssemblyReference.cache
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\ListBox\obj\Debug\MainWindow.g.cs
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\ListBox\obj\Debug\App.g.cs
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\ListBox\obj\Debug\ListBox_MarkupCompile.cache
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\ListBox\obj\Debug\ListBox_MarkupCompile.lref
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\ListBox\obj\Debug\MainWindow.baml
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\ListBox\obj\Debug\ListBox.g.resources
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\ListBox\obj\Debug\ListBox.csproj.GenerateResource.cache
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\ListBox\obj\Debug\ListBox.exe
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\ListBox\obj\Debug\ListBox.pdb

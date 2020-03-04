@@ -1,0 +1,14 @@
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 08C\bin\Debug\WPF 08C.exe.config
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 08C\bin\Debug\WPF 08C.exe
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 08C\bin\Debug\WPF 08C.pdb
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 08C\obj\Debug\WPF 08C.csprojAssemblyReference.cache
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 08C\obj\Debug\MainWindow.g.cs
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 08C\obj\Debug\App.g.cs
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 08C\obj\Debug\WPF 08C_MarkupCompile.cache
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 08C\obj\Debug\WPF 08C_MarkupCompile.lref
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 08C\obj\Debug\MainWindow.baml
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 08C\obj\Debug\WPF 08C.g.resources
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 08C\obj\Debug\WPF_08C.Properties.Resources.resources
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 08C\obj\Debug\WPF 08C.csproj.GenerateResource.cache
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 08C\obj\Debug\WPF 08C.exe
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 08C\obj\Debug\WPF 08C.pdb

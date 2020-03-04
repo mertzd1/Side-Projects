@@ -1,0 +1,13 @@
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 12C ToolTip\bin\Debug\WPF 12C ToolTip.exe.config
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 12C ToolTip\bin\Debug\WPF 12C ToolTip.exe
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 12C ToolTip\bin\Debug\WPF 12C ToolTip.pdb
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 12C ToolTip\obj\Debug\MainWindow.g.cs
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 12C ToolTip\obj\Debug\App.g.cs
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 12C ToolTip\obj\Debug\WPF 12C ToolTip_MarkupCompile.cache
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 12C ToolTip\obj\Debug\WPF 12C ToolTip_MarkupCompile.lref
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 12C ToolTip\obj\Debug\MainWindow.baml
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 12C ToolTip\obj\Debug\WPF 12C ToolTip.g.resources
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 12C ToolTip\obj\Debug\WPF_12C_ToolTip.Properties.Resources.resources
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 12C ToolTip\obj\Debug\WPF 12C ToolTip.csproj.GenerateResource.cache
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 12C ToolTip\obj\Debug\WPF 12C ToolTip.exe
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 12C ToolTip\obj\Debug\WPF 12C ToolTip.pdb

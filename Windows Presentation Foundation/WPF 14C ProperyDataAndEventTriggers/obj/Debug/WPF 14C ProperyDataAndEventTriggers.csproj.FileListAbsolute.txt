@@ -1,0 +1,14 @@
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 14C ProperyDataAndEventTriggers\bin\Debug\WPF 14C ProperyDataAndEventTriggers.exe.config
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 14C ProperyDataAndEventTriggers\bin\Debug\WPF 14C ProperyDataAndEventTriggers.exe
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 14C ProperyDataAndEventTriggers\bin\Debug\WPF 14C ProperyDataAndEventTriggers.pdb
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 14C ProperyDataAndEventTriggers\obj\Debug\WPF 14C ProperyDataAndEventTriggers.csprojAssemblyReference.cache
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 14C ProperyDataAndEventTriggers\obj\Debug\MainWindow.g.cs
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 14C ProperyDataAndEventTriggers\obj\Debug\App.g.cs
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 14C ProperyDataAndEventTriggers\obj\Debug\WPF 14C ProperyDataAndEventTriggers_MarkupCompile.cache
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 14C ProperyDataAndEventTriggers\obj\Debug\WPF 14C ProperyDataAndEventTriggers_MarkupCompile.lref
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 14C ProperyDataAndEventTriggers\obj\Debug\MainWindow.baml
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 14C ProperyDataAndEventTriggers\obj\Debug\WPF 14C ProperyDataAndEventTriggers.g.resources
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 14C ProperyDataAndEventTriggers\obj\Debug\WPF_14C_ProperyDataAndEventTriggers.Properties.Resources.resources
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 14C ProperyDataAndEventTriggers\obj\Debug\WPF 14C ProperyDataAndEventTriggers.csproj.GenerateResource.cache
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 14C ProperyDataAndEventTriggers\obj\Debug\WPF 14C ProperyDataAndEventTriggers.exe
+C:\Users\donal\OneDrive\Complete C# Masterclass\Windows Presentation Foundation\WPF 14C ProperyDataAndEventTriggers\obj\Debug\WPF 14C ProperyDataAndEventTriggers.pdb
