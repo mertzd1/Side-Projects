@@ -1,0 +1,18 @@
+C:\Users\donal\OneDrive\Complete C# Masterclass\WPF ZooManager\obj\Debug\WPF ZooManager.csprojAssemblyReference.cache
+C:\Users\donal\OneDrive\Complete C# Masterclass\WPF ZooManager\obj\Debug\MainWindow.g.cs
+C:\Users\donal\OneDrive\Complete C# Masterclass\WPF ZooManager\obj\Debug\App.g.cs
+C:\Users\donal\OneDrive\Complete C# Masterclass\WPF ZooManager\obj\Debug\WPF ZooManager_MarkupCompile.cache
+C:\Users\donal\OneDrive\Complete C# Masterclass\WPF ZooManager\obj\Debug\WPF ZooManager_MarkupCompile.lref
+C:\Users\donal\OneDrive\Complete C# Masterclass\WPF ZooManager\bin\Debug\WPF ZooManager.exe.config
+C:\Users\donal\OneDrive\Complete C# Masterclass\WPF ZooManager\bin\Debug\WPF ZooManager.exe
+C:\Users\donal\OneDrive\Complete C# Masterclass\WPF ZooManager\bin\Debug\WPF ZooManager.pdb
+C:\Users\donal\OneDrive\Complete C# Masterclass\WPF ZooManager\bin\Debug\NLog.dll
+C:\Users\donal\OneDrive\Complete C# Masterclass\WPF ZooManager\bin\Debug\NLog.xml
+C:\Users\donal\OneDrive\Complete C# Masterclass\WPF ZooManager\obj\Debug\MainWindow.baml
+C:\Users\donal\OneDrive\Complete C# Masterclass\WPF ZooManager\obj\Debug\WPF ZooManager.g.resources
+C:\Users\donal\OneDrive\Complete C# Masterclass\WPF ZooManager\obj\Debug\WPF_ZooManager.Properties.Resources.resources
+C:\Users\donal\OneDrive\Complete C# Masterclass\WPF ZooManager\obj\Debug\WPF ZooManager.csproj.GenerateResource.cache
+C:\Users\donal\OneDrive\Complete C# Masterclass\WPF ZooManager\obj\Debug\WPF ZooManager.csproj.CopyComplete
+C:\Users\donal\OneDrive\Complete C# Masterclass\WPF ZooManager\obj\Debug\WPF ZooManager.exe
+C:\Users\donal\OneDrive\Complete C# Masterclass\WPF ZooManager\obj\Debug\WPF ZooManager.pdb
+C:\Users\donal\OneDrive\Complete C# Masterclass\WPF ZooManager\obj\Debug\WPF ZooManager_Content.g.cs
