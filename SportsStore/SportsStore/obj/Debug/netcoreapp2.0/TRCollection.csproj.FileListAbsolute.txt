@@ -1,0 +1,15 @@
+C:\Users\donal\OneDrive\Side-Projects\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\donal\OneDrive\Side-Projects\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\donal\OneDrive\Side-Projects\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\donal\OneDrive\Side-Projects\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\TRCollection.deps.json
+C:\Users\donal\OneDrive\Side-Projects\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\TRCollection.runtimeconfig.json
+C:\Users\donal\OneDrive\Side-Projects\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\TRCollection.runtimeconfig.dev.json
+C:\Users\donal\OneDrive\Side-Projects\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\TRCollection.dll
+C:\Users\donal\OneDrive\Side-Projects\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\TRCollection.pdb
+C:\Users\donal\OneDrive\Side-Projects\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\TRCollection.csproj.CoreCompileInputs.cache
+C:\Users\donal\OneDrive\Side-Projects\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\TRCollection.AssemblyInfoInputs.cache
+C:\Users\donal\OneDrive\Side-Projects\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\TRCollection.AssemblyInfo.cs
+C:\Users\donal\OneDrive\Side-Projects\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\TRCollection.dll
+C:\Users\donal\OneDrive\Side-Projects\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\TRCollection.pdb
+C:\Users\donal\OneDrive\Side-Projects\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\TRCollection.genruntimeconfig.cache
+C:\Users\donal\OneDrive\Side-Projects\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\TRCollection.csprojAssemblyReference.cache

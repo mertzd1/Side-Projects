@@ -71,7 +71,6 @@
     <Compile Include="Assets\Resources\Scripts\RaquetPlayer2.cs" />
     <Compile Include="Assets\Resources\Scripts\ScoreController.cs" />
     <Compile Include="Assets\Resources\Scripts\SoundController.cs" />
-    <Compile Include="Assets\ScoreController.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/donal/OneDrive/Side-Projects/PongClone/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
